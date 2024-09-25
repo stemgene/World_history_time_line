@@ -115,13 +115,28 @@ title European and Middle East Ancient Civilization
 Section 500 - 600
     
 Section 600 - 700
-    614: 耶路撒冷被波斯人占领
+    610: 穆罕穆德宣扬伊斯兰教义
+       : 614耶路撒冷被波斯人占领
 Section 700 - 800
     
 Section 800 - 900
 
 Section 900 - 1000
     990: Rassia信仰东正教
+Section 1000 - 1100
+    1054: 基督教分裂为东正教和罗马公教
+    1096: 1st十字军东征
+Section 1100 - 1200
+    1163: 巴黎圣母院
+Section 1200 - 1300
+    1202: 4th十字军东征，占领君士坦丁堡
+Section 1300 - 1400
+    1339: 英法百年战争
+    1347: 黑死病
+Section 1400 - 1500
+    1453: 东罗马帝国灭亡
+Section 1500 - 1600
+
 
 ```
 
@@ -129,14 +144,21 @@ Section 900 - 1000
 timeline
 title East Asian Ancient Civilization
 
-Section 500 - 600
+Section 隋朝 (581 - 618)
     1000 BC: 腓尼基人发明字母<br>使用铁器
-Section 600 - 700
+Section 唐朝 (618 - 907)
+    710: 日本奈良时代
+Section 五代十国 (907 - 960)
     1000 BC: 腓尼基人发明字母<br>使用铁器
-Section 700 - 800
-    1000 BC: 腓尼基人发明字母<br>使用铁器
-Section 800 - 900
-    1000 BC: 腓尼基人发明字母<br>使用铁器
-Section 900 - 1000
-    1000 BC: 腓尼基人发明字母<br>使用铁器
+
+Section 宋朝/辽/金 (900 - 1271)
+    1193: 日本镰仓幕府
+Section 元朝 (1271 - 1368)
+    990: Rassia信仰东正教
+
+Section 明朝 (1368 - 1636)
+    990: Rassia信仰东正教
+
+Section 清朝 (1636 - 1912)
+    990: Rassia信仰东正教
 ```
