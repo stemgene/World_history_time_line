@@ -108,7 +108,7 @@ Section 400 - 500
 
 ```
 
-## Mid-Age (500 - 1600)
+## Mid-Age (500 - 1450)
 ```mermaid
 timeline 
 title European and Middle East Ancient Civilization
@@ -133,11 +133,11 @@ Section 1200 - 1300
 Section 1300 - 1400
     1339: 英法百年战争
     1347: 黑死病
-Section 1400 - 1500
-    1453: 东罗马帝国灭亡
-Section 1500 - 1600
-
-
+    1378: 天主教分裂
+Section 1400 - 1450
+    1429: 圣女贞德
+    1452: Da Vinci
+        : 东罗马帝国灭亡
 ```
 
 ```mermaid
@@ -157,8 +157,43 @@ Section 元朝 (1271 - 1368)
     990: Rassia信仰东正教
 
 Section 明朝 (1368 - 1636)
-    990: Rassia信仰东正教
+
+    1405: 郑和下西洋
+    1600: 日本江户时代
 
 Section 清朝 (1636 - 1912)
     990: Rassia信仰东正教
+```
+
+## 文艺复兴、大航海时代 (1450 - 1700)
+```mermaid
+timeline
+title European and Middle East Ancient Civilization
+Section 1450 - 1500
+    1475: 米开朗基罗
+    1479: 西班牙建国，大航海时代
+    1483: 拉斐尔
+        : Da Vinci 岩洞中的圣母
+    1492: 哥伦布到达新大陆
+    1495：Da Vinci 最后的晚餐
+Section 1500 - 1600
+    1503：Da Vinci 蒙娜丽莎
+    1510: 拉斐尔 雅典学院
+        : 1513 巴尔沃亚发现太平洋
+    1520: 麦哲伦环球
+        : 日耳曼和法国为争夺意大利开战
+    1534: 英国国教成立
+    1543: 哥白尼天体运行论
+    1558: 伊丽莎白一世
+    1564: 莎士比亚
+    1580: 葡萄牙西班牙合并
+    1588: 英国海军击败西班牙无敌舰队
+        : 法王亨利四世成立波旁王朝
+
+
+Section 1600 - 1700
+    
+
+
+
 ```
